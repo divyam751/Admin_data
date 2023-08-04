@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "productImage": "shirt1.jpg",
+    "productName": "Classic White Shirt",
+    "productDescription": "A stylish and comfortable white shirt for men.",
+    "gender": "Male",
+    "category": "Shirts",
+    "price": 39.99,
+    "count": 5
+  },
+  {
+    "id": 2,
+    "productImage": "shirt2.jpg",
+    "productName": "Striped Polo Shirt",
+    "productDescription": "A classic striped polo shirt for a casual and smart look.",
+    "gender": "Male",
+    "category": "Shirts",
+    "price": 29.99,
+    "count": 5
+  },
+  {
+    "id": 3,
+    "productImage": "dress1.jpg",
+    "productName": "Floral Maxi Dress",
+    "productDescription": "A beautiful floral print maxi dress for women.",
+    "gender": "Female",
+    "category": "Suits",
+    "price": 59.99,
+    "count": 5
+  }
+]

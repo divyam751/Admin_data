@@ -29,4 +29,14 @@
     "price": 59.99,
     "count": 5
   }
+  {
+    "id": 4,
+    "productImage": "dress1.jpg",
+    "productName": "Floral Maxi Dress",
+    "productDescription": "A beautiful floral print maxi dress for women.",
+    "gender": "Female",
+    "category": "Suits",
+    "price": 59.99,
+    "count": 7
+  }
 ]
